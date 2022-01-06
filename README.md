@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FutureDev23
-- 👀 I’m interested in C++, python so far
-- 🌱 I’m currently learning: Well im in my 1st year in college studying Mathematics and Computer Science. I try to learn as many things as possible
-- 💞️ I’m looking to collaborate on simple things so far, i'm here to learn from others
+- 👀 I’m interested in C++, python 
+- 🌱 I’m currently learning: Computer Science
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : via mail flaviantanase30@gmail.com
 
 <!---
